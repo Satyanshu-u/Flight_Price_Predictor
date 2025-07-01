@@ -2,7 +2,10 @@
 
 This repository contains a machine learning project focused on predicting flight ticket prices based on various features such as departure time, arrival time, airline, source, destination, and duration.
 
-📌 Project Overview
+
+
+
+📌 Project Overview :
 
 Flight price prediction is a useful application of machine learning that helps travelers and businesses estimate the cost of air travel based on multiple variables. In this project:
 
@@ -48,7 +51,7 @@ Price (Target Variable)
 
 
 
-📊 Exploratory Data Analysis (EDA)
+📊 Exploratory Data Analysis (EDA) 
 
 Distribution of price with respect to airline and stops.
 
@@ -74,6 +77,7 @@ XGBoost Regressor
 
 
 Random Forest and XGBoost gave the best results with high accuracy and low error.
+
 
 
 
